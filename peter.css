@@ -4,3 +4,8 @@ body {
 .heads {
   color:Red;
 }
+#dog {
+  width:100px;
+  float:left;
+  marrgin:10px;
+}
