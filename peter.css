@@ -5,14 +5,9 @@ body {
   color:Red;
 }
 #dog-pic {
-  width:100px;
+  width:50px;
   float:left;
   marrgin:10px;
 }
-#dog-sidebar {
-  float:right;
-  Width:30%;
-  margin-left:10px;
-  margin-right:10px;
-}
+
     
