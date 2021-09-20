@@ -9,3 +9,10 @@ body {
   float:left;
   marrgin:10px;
 }
+#dog-sidebar {
+  float:right;
+  Width:30%;
+  margin-left:10px;
+  margin-right:10px;
+}
+    
